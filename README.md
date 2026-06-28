@@ -3,7 +3,7 @@
 </p>
 
 # Espalhamento_rayleigh
-Este repositório contém um programa usado para o experimento de Espalhamento rayleigh de Práticas Básicas de Laboratório.
+Este repositório contém os programas usados para o experimento de Espalhamento rayleigh de Práticas Básicas de Laboratório.
 ## Aviso de licença
 Todos são livres para utilizar e modificar os códigos deste repositório, mas desde que sejam dados os devidos créditos.
 <p align="center">
